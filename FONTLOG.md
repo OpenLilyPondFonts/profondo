@@ -1,14 +1,21 @@
 FONTLOG for the Profondo font
 =============================
 
-This file provides detailed information on the Profondo Font Software. This information should be distributed along with the Profondo fonts and any derivative works. It is an un-modified glyph re-mapping of Steinberg's Bravura font (also distributed under the OFL) to be compatible with the LilyPond music engraving software.
+This file provides detailed information on the Profondo Font Software. This information should
+be distributed along with the Profondo fonts and any derivative works. It is an un-modified
+glyph re-mapping of Steinberg's Bravura font (also distributed under the OFL) to be compatible
+with the LilyPond music engraving software.
 
 
 Basic font information
 ----------------------
-Bravura is a Unicode typeface designed by Steinberg for its in-development music notation and scoring application.
 
-It is compliant with version 0.9 of the Standard Music Font Layout (SMuFL), a community-driven standard for how music symbols should be laid out in the Unicode Private Use Area (PUA) in the Basic Multilingual Plane (BMP) for compatibility between different scoring applications.
+Bravura is a Unicode typeface designed by Steinberg for its in-development music notation and
+scoring application.
+
+It is compliant with version 0.9 of the Standard Music Font Layout (SMuFL), a community-driven
+standard for how music symbols should be laid out in the Unicode Private Use Area (PUA) in the
+Basic Multilingual Plane (BMP) for compatibility between different scoring applications.
 
 More information about Steinberg's scoring application can be found at:
 
@@ -21,7 +28,10 @@ http://www.smufl.org/
 
 Note for developers
 -------------------
-If you are intending to use Bravura as part of your own software application, please refer to the 'Notes for implementers' section in the SMuFL specification for useful information about Bravura's metrics and how glyphs are registered.
+
+If you are intending to use Bravura as part of your own software application, please refer to
+the 'Notes for implementers' section in the SMuFL specification for useful information about
+Bravura's metrics and how glyphs are registered.
 
 
 Changelog
